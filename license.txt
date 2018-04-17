@@ -1,3 +1,7 @@
 this is a new license
+<<<<<<< Updated upstream
 modify through branch dev
 fix a bug
+=======
+modify through branch master for stash
+>>>>>>> Stashed changes
