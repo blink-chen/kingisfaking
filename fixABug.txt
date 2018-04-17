@@ -1,2 +1,3 @@
 fixed a bug
 fixed input bug
+fixed output bug
