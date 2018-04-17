@@ -1,2 +1,6 @@
 this is a new license
+<<<<<<< HEAD
 modify through branch master 
+=======
+modify through branch dev1
+>>>>>>> dev1
