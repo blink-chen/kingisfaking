@@ -1,3 +1,4 @@
 this is a new license
 modify through branch master for stash
 modify through branch dev
+new fix log
