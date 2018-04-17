@@ -1,1 +1,1 @@
-this is a license for mygit
+this is a new license
